@@ -1,0 +1,41 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+	<title>Новий проект(14)-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="263.2" y1="778.8" x2="167.1" y2="504.9" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#131df1"/>
+			<stop offset=".3" stop-color="#1830e6"/>
+			<stop offset=".6" stop-color="#2633da"/>
+			<stop offset=".9" stop-color="#4739cc"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="484.3" y1="847.5" x2="757.7" y2="786.5" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#394ecc"/>
+			<stop offset=".1" stop-color="#3943cb"/>
+			<stop offset=".3" stop-color="#393fc2"/>
+			<stop offset=".3" stop-color="#393fc1"/>
+			<stop offset=".9" stop-color="#21489f"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="490.5" y1="176.1" x2="724.6" y2="247.4" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#0290ea"/>
+			<stop offset=".8" stop-color="#0c89ca"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="169" y1="534" x2="273.4" y2="266" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#393ccc"/>
+			<stop offset=".3" stop-color="#5e6ac4"/>
+			<stop offset=".9" stop-color="#0fa7df"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #0fa7df } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+		.s4 { fill: #394ecc } 
+		.s5 { fill: url(#g4) } 
+	</style>
+	<path id="Layer" class="s0" d="m749.5 330.3c17.6 23.1 32.6 48.2 44.5 74.8l-338.4 252.9-141.4-89.9v-108.1l141.4 89.9z"/>
+	<path id="Layer" class="s1" d="m244.6 634.3c14.3 35.1 35.4 66.9 62 93.8l-60.8 61.6c-34.5-35-61.9-76.4-80.6-122.1-18.6-45.7-28.2-94.6-28.2-144q0-9.5 0.5-18.8l85.7 4.2q-0.4 7.2-0.4 14.5c0 38 7.4 75.6 21.8 110.8z"/>
+	<path id="Layer" class="s2" d="m617.8 791c34.7-14.6 66.1-36 92.6-62.9l60.7 61.6c-34.5 35-75.4 62.8-120.5 81.7-45 18.9-93.3 28.6-142.1 28.6q-9.3 0-18.6-0.5l4.3-86.9c4.8 0.4 9.5 0.4 14.3 0.4 37.5 0 74.7-7.5 109.3-22z"/>
+	<path id="Layer" class="s3" d="m508.4 234v-87c84.9-0.2 167.4 29.3 233.4 83.5l-72.3 54c-47.4-33-103.6-50.6-161.1-50.5z"/>
+	<path id="Layer" class="s4" d="m848.2 676.2c-21.1 48.1-51.9 91.2-90.4 126.5l-57.7-64.6c29.6-27.1 53.3-60.2 69.5-97.2 16.3-37 24.6-77 24.6-117.4q0-3.9 0-7.8l80-59.7c3.9 22.3 5.8 44.9 5.8 67.5 0.1 52.6-10.8 104.6-31.8 152.7z"/>
+	<path id="Layer" class="s5" d="m247.4 406.1c-16.2 36.9-24.6 76.9-24.6 117.4h-85.8c-0.1-52.6 10.8-104.7 31.9-152.8 21-48.1 51.8-91.1 90.4-126.4l57.6 64.6c-29.6 27.1-53.3 60.2-69.5 97.2z"/>
+</svg>
